@@ -86,3 +86,10 @@
     nav.show {
       display: flex; }
     }
+    .news article img {
+      width: 300px;     
+      height: auto;    
+      display: block;
+      margin: 0 auto;
+      border-radius: 8px;
+    }
